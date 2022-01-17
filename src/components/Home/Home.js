@@ -15,7 +15,6 @@ function Home() {
               <h1 style={{ paddingBottom: 15 }} className="heading">
                 Hi there! <span className="wave" role="img" aria-labelledby="wave">👋🏻</span>
               </h1>
-
               <h1 className="heading-name">
               I am K S.              
               </h1>
@@ -23,8 +22,9 @@ function Home() {
               🌱 I’m currently learning coding.
               <br /> <br /> 
               💞️ I’m looking to collaborate on coding ideas.
-              <br /> <br /> 
-              📫 You can reach me at bootcamp, if you are interested.
+              <br /> <br />              
+              <p> 📫 You can reach me at - 
+                <a href="mailto:ks@gmail.com"> K S email </a> </p>               
               <br /> <br /> 
               <div style={{ padding: 50, textAlign: "left" }}>
                 <Type />
