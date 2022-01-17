@@ -10,7 +10,12 @@
 
 ## Repo
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [KS1](https://github.com/KS1/HW20-ReactPortfolio). 
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [KS1](https://github.com/KS1/HW20-ReactJSPortfolio). 
+
+## Demo
+
+[Video Link](https://watch.screencastify.com/v/Nd87My9vhsUwJxhBNq6K)
+
 
 ## Built With
 
@@ -55,9 +60,9 @@ You will find all the components used and you can edit your information accordin
 
 <h3 align="left">
     🔹
-    <a href="https://github.com/KS1/HW20-ReactPortfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/KS1/HW20-ReactJSPortfolio/issues">Report Bug</a> &nbsp; &nbsp;
     🔹
-    <a href="https://github.com/KS1/HW20-ReactPortfolio/issues">Request Feature</a>
+    <a href="https://github.com/KS1/HW20-ReactJSPortfolio/issues">Request Feature</a>
 </h3>
 
 ## References 
