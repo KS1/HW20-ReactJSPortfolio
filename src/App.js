@@ -25,7 +25,7 @@ function App() {
   }, []);
 
   return (
-    <Router>
+    <Router basename={"HW20-ReactJSPortfolio/"}>
       <Preloader load={load} />
       <div className="App" id={load ? "no-scroll" : "scroll"}>
         <Navbar />
