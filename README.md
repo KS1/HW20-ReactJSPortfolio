@@ -12,6 +12,10 @@
 
 You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [KS1](https://github.com/KS1/HW20-ReactJSPortfolio). 
 
+## Published URL
+
+[Published URL](https://ks1.github.io/HW20-ReactJSPortfolio/)
+
 ## Demo
 
 [Video Link](https://watch.screencastify.com/v/Nd87My9vhsUwJxhBNq6K)
